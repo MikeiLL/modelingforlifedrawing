@@ -16,5 +16,3 @@ The work was first written in 1973, by a group of models and artists working tog
 I do art work, coordinate a drawing workshop at home, and sometimes model. I started my own group because I was very uncomfortable with what I felt was an extreme lack of attention to models as people: this lack was characteristic of every group I attended, until we started our own.
 
 The pointers in this website will often seem obvious; reflection will usually show that they are often ignored in practise. Deliberate attention to them on the part of a large enough group of models and artists will give them greater weight. If so, I think that personal and professional relations between models and artists will improve, there will be greater respect for modeling as a profession and as a performing art, and artists and models will find themselves working better together to improve both the quality of professional modeling and the quality of artistic expression inspired by that modeling.
-
-I’d like to learn how this information works out for people:; please let me know, either by commenting directly on the website, or by [emailing me](mailto:beth_hughkilmer@yahoo.com). Hugh Kilmer
