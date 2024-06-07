@@ -14,10 +14,10 @@
 
   <div class="PageNavigation">
     {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">&laquo; {{page.next.title | date: "%-d %B %Y"}} </a>
+    <a class="next" href="{{page.next.url}}">&laquo; {{page.next.title | page.previous.permalink}} </a>
     {% endif %}
     {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">{{page.previous.title | date: "%-d %B %Y"}} &raquo;</a>
+    <a class="prev" href="{{page.previous.url}}">{{page.previous.title | page.previous.permalink}} &raquo;</a>
     {% endif %}
   </div>
   <footer>
