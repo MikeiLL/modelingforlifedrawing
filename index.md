@@ -1,6 +1,6 @@
 ---
 id: 270
-title: 'Welcome to the web version of Hugh Kilmer&#8217;s book, Modeling for Life Drawing.'
+title: 'Hugh Kilmer&#8217;s book, Modeling for Life Drawing.'
 date: '2019-07-05T23:34:40+00:00'
 author: 'Hugh Kilmer'
 layout: page
