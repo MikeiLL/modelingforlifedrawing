@@ -18,6 +18,15 @@ p {
   max-width: 600px;
 }
 
+#total {
+  margin: 20px 0;
+  font-size: 1.2em;
+  border: 2px solid #0a2;
+  border-radius: 5px;
+  padding: 1em;
+  max-width: 600px;
+}
+
 .PageNavigation {
   display: flex;
   justify-content: space-between;
