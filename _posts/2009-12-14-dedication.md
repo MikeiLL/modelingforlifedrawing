@@ -9,4 +9,4 @@ categories:
     - Appendices
 ---
 
-![Dedication - Beth's Book](http://www.modelingforlifedrawing.com/community/images/originals/Dedication.jpg "Dedication - Beth's Book")
+![Dedication - Beth's Book](images/Dedication.jpg "Dedication - Beth's Book")
